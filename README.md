@@ -2,39 +2,39 @@
 
 A functional clone of the popular e‑commerce platform Myntra, built using HTML, CSS, and JavaScript. This project replicates core features of an online shopping site, including product listings, search functionality, cart management, and responsive design.
 
- Live Demo: Myntra Functional Clone (argha0508.github.io in Bing)
+ Live Demo: [Myntra Functional Clone ](https://argha0508.github.io/Myntra_Functional_JS_Clone/)(argha0508.github.io in Bing)
 
  Features:
 
 
-Homepage with product categories (Men, Women, Kids, Accessories, etc.)
+i. Homepage with product categories (Men, Women, Kids, Accessories, etc.)
 
-Search bar with functional icons (search, profile, cart, wishlist)
+ii. Search bar with functional icons (search, profile, cart, wishlist)
 
-Product listing pages with images, prices, and descriptions
+iii. Product listing pages with images, prices, and descriptions
 
-Add to Cart & Wishlist functionality
+iv. Add to Cart & Wishlist functionality
 
-Bag/Cart Section
+v. Bag/Cart Section
 
-Displays items added to the cart
+vi. Displays items added to the cart
 
-Shows product details, quantity, and total price
+vii. Shows product details, quantity, and total price
 
-Remove items from the cart dynamically
+viii. Remove items from the cart dynamically
 
-Responsive design for desktop and mobile
+ix. Responsive design for desktop and mobile
 
-Clean UI inspired by Myntra’s design language
+x. Clean UI inspired by Myntra’s design language
 
  Technologies Used:
 
 
-HTML5 → Page structure and semantic layout
+i. HTML5 → Page structure and semantic layout
 
-CSS3 → Styling, grid/flexbox layouts, responsive design
+ii. CSS3 → Styling, grid/flexbox layouts, responsive design
 
-JavaScript (ES6) → DOM manipulation, event handling, cart/wishlist logic, localStorage persistence
+iii. JavaScript (ES6) → DOM manipulation, event handling, cart/wishlist logic, localStorage persistence
 
  Project Structure:
 
@@ -51,11 +51,11 @@ Myntra_Functional_JS_Clone/
 How to Run Locally ?
 
 
-Clone or download the repository.
+i. Clone or download the repository.
 
-Open index.html in any modern browser.
+ii. Open index.html in any modern browser.
 
-Explore categories, add products to cart/wishlist, and test functionality.
+iii. Explore categories, add products to cart/wishlist, and test functionality.
 
  Learning Outcomes:
 
@@ -71,17 +71,19 @@ Designing a responsive, user‑friendly UI inspired by real e‑commerce sites
 🔮 Future Enhancements
 
 
-Add user authentication (login/signup)
+i. Add user authentication (login/signup)
 
-Implement filtering and sorting for products
+ii. Implement filtering and sorting for products
 
-Add checkout flow with payment simulation
+iii. Add checkout flow with payment simulation
 
-Dark mode toggle for accessibility
+iv. Dark mode toggle for accessibility
 
-Integrate backend (Node.js/Express + database) for real product management
+v. Integrate backend (Node.js/Express + database) for real product management
 
 📸 Screenshots:
 
 
+## Home Page ##  <img src="Screenshots/HomePage.png" width = 400>
+## Bag Page ## <img src="screenshots/Bag.png" width="400">
 
