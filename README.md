@@ -88,8 +88,8 @@ v. Integrate backend (Node.js/Express + database) for real product management
 
 
 <img src="Screenshots/HomePage.png" width = 400>
-## Bag Page ## 
 
+## Bag Section ##
 
 <img src="Screenshots/Bag.png" width="400">
 
