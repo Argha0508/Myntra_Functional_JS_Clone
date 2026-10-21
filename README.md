@@ -84,6 +84,12 @@ v. Integrate backend (Node.js/Express + database) for real product management
 📸 Screenshots:
 
 
-## Home Page ##  <img src="Screenshots/HomePage.png" width = 400>
-## Bag Page ## <img src="screenshots/Bag.png" width="400">
+## Home Page ##
+
+
+<img src="Screenshots/HomePage.png" width = 400>
+## Bag Page ## 
+
+
+<img src="Screenshots/Bag.png" width="400">
 
